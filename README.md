@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Alvin! 👋
 
-<!--
-**alvinhibatullah/alvinhibatullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Systems student passionate about web development, system design, and cyber security. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on academic systems and web apps (like Lost & Found systems).
+- 💻 My Tech Stack: **PHP, Laravel, React, HTML, CSS**
+- ⚙️ Skilled in System Analysis & Design (UML, BPMN).
+- 👯 I’m always open to collaborating on Object-Oriented Programming and database projects.
+- 📫 How to reach me: [Tulis Email atau LinkedIn kamu di sini]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tools & Technologies
+<!-- Kamu bisa menambahkan badge ikon di sini nantinya -->
